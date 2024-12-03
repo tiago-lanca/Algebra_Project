@@ -1,0 +1,14 @@
+C:\Users\tiago\source\repos\AlgebraProject\AlgebraProject\bin\Debug\net8.0\AlgebraProject.exe
+C:\Users\tiago\source\repos\AlgebraProject\AlgebraProject\bin\Debug\net8.0\AlgebraProject.deps.json
+C:\Users\tiago\source\repos\AlgebraProject\AlgebraProject\bin\Debug\net8.0\AlgebraProject.runtimeconfig.json
+C:\Users\tiago\source\repos\AlgebraProject\AlgebraProject\bin\Debug\net8.0\AlgebraProject.dll
+C:\Users\tiago\source\repos\AlgebraProject\AlgebraProject\bin\Debug\net8.0\AlgebraProject.pdb
+C:\Users\tiago\source\repos\AlgebraProject\AlgebraProject\obj\Debug\net8.0\AlgebraProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\source\repos\AlgebraProject\AlgebraProject\obj\Debug\net8.0\AlgebraProject.AssemblyInfoInputs.cache
+C:\Users\tiago\source\repos\AlgebraProject\AlgebraProject\obj\Debug\net8.0\AlgebraProject.AssemblyInfo.cs
+C:\Users\tiago\source\repos\AlgebraProject\AlgebraProject\obj\Debug\net8.0\AlgebraProject.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\AlgebraProject\AlgebraProject\obj\Debug\net8.0\AlgebraProject.dll
+C:\Users\tiago\source\repos\AlgebraProject\AlgebraProject\obj\Debug\net8.0\refint\AlgebraProject.dll
+C:\Users\tiago\source\repos\AlgebraProject\AlgebraProject\obj\Debug\net8.0\AlgebraProject.pdb
+C:\Users\tiago\source\repos\AlgebraProject\AlgebraProject\obj\Debug\net8.0\AlgebraProject.genruntimeconfig.cache
+C:\Users\tiago\source\repos\AlgebraProject\AlgebraProject\obj\Debug\net8.0\ref\AlgebraProject.dll
